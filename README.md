@@ -1,0 +1,2 @@
+# Optimizing-Last-Mile-Delivery-Planning-for-Cost-Reduction
+A logistics company's last mile process became inefficient. The cost of delivering package to remote areas exceeded expected amount by 25%. Resulting in overpayment to partners led to a decrease in profitability. Analyzed data to gain insights on current delivery process and Provided recommendation for process improvement based on data insights.
