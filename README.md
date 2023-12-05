@@ -29,16 +29,6 @@ A logistics company's last mile process became inefficient. The cost of deliveri
 
 #### Tableau Report :
 
-![alt text](tracking_extra_trips.jpg)
-
-![alt text](current_payout_summary.jpg)
-
-![alt text](overpayment_summary.jpg)
-
-![alt text](cluster_level_analysis.jpg)
-
-![alt text](process_optimisation.jpg)
-
  [Tableau file](Optimizing_Last-Mile_Delivery_Planning_for_Cost_Reduction.twbx)
 
 
