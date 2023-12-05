@@ -22,7 +22,33 @@ A logistics company's last mile process became inefficient. The cost of deliveri
 |Analyzed the impact of process violation on the payouts to the partners | Payouts to partners was 20% more than expected |
 |Reduced the cost further by making improvements to the current process | Cost could be further reduced by ~27% |
 
-![alt text](Process Summary.png)
+
+![alt text](Process_Summary.png)
+
+
+
+#### Tableau Report :
+
+![alt text](tracking_extra_trips.jpg)
+
+![alt text](current_payout_summary.jpg)
+
+![alt text](overpayment_summary.jpg)
+
+![alt text](cluster_level_analysis.jpg)
+
+![alt text](process_optimisation.jpg)
+
+ [Tableau file](Optimizing_Last-Mile_Delivery_Planning_for_Cost_Reduction.twbx)
+
+
+
+ 
+
+
+
+
+
 
 
 
